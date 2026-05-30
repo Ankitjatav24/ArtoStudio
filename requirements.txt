@@ -1,10 +1,8 @@
-streamlit as
+streamlit
 pandas
-io
-smtplib
-MIMEText
-MIMEMultipart
-plotly.express
-matplotlib.pyplot
+plotly
+matplotlib
 seaborn
-
+openpyxl
+fpdf
+python-pptx
